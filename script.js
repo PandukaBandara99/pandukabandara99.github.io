@@ -128,8 +128,8 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const roles = [
-        "BSc in Electrical & Electronic Engineering", "52+ Certifications", "Data Engineering",
-        "Machine Learning & AI", "Software Engineering", "Content Creation"
+        "BSc in Electrical & Electronic Engineering", "50+ Certifications", "Data Engineering",
+        "Machine Learning & AI", "Software Engineering","ML OPs", "Content Creation" , "Data Science" , "Cloud Engineering"
     ];
     const roleTextElement = document.querySelector('.role-text');
     let roleIndex = 0;
