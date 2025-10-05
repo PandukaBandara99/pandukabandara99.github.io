@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const typeSlogan = async () => {
         const sloganElement = document.getElementById('slogan');
-        const sloganText = "Deep interest in evolving technologies, seeking practical challenges to improve skills, expand technical knowledge, and contribute to building efficient and innovative tech solutions to solve real-world problems";
+        const sloganText = "Deeply passionate about AI/ML and Data Engineering. I love solving real-world problems and constantly learning to build unbelievably smart and practical solutions.";
         sloganElement.textContent = '';
 
         for (const char of sloganText) {
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const roles = [
         "BSc in Electrical & Electronic Engineering", "50+ Certifications", "Data Engineering",
-        "Machine Learning & AI", "Software Engineering","ML OPs", "Content Creation" , "Data Science" , "Cloud Engineering"
+        "Machine Learning & AI", "Software Engineering","BSc in Electrical & Electronic Engineering","ML OPs", "Content Creation" , "Data Science" , "Cloud Engineering"
     ];
     const roleTextElement = document.querySelector('.role-text');
     let roleIndex = 0;
