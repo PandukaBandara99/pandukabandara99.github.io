@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const typeSlogan = async () => {
         const sloganElement = document.getElementById('slogan');
-        const sloganText = "Deeply passionate about AI/ML and Data Engineering. I love solving real-world problems and constantly learning to build unbelievably smart and practical solutions.";
+        const sloganText = "Deeply passionate about AI/ML and Data Engineering. I love solving real-world problems and constantly learning to build unbelievably smart and practical solutions;";
         sloganElement.textContent = '';
 
         for (const char of sloganText) {
